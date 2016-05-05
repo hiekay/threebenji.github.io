@@ -1,4 +1,4 @@
-# 闫天磊简历[附件下载](https://raw.githubusercontent.com/sanshilei/resume/master/%E9%97%AB%E5%A4%A9%E7%A3%8A%E7%AE%80%E5%8E%86.pdf)
+# 闫天磊简历[附件下载](https://raw.githubusercontent.com/threebenji/threebenji.github.io/master/%E9%97%AB%E5%A4%A9%E7%A3%8A%E7%AE%80%E5%8E%86.pdf)
 ---
 
 2014年，我参与了中欣银宝通商城的开发（```http://www.5mcard.com/```）。作为核心程序员，我不但完成了网站界面与后台系统的开发工作，更做到了小组负责人的位置，积极的和各个部门响应需求和问题。（```主要做了第三方充值,支付接口对接,单点登陆,Erp对接,后台系统功能性开发```），间接的学到了一些基本的知识。
